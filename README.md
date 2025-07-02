@@ -12,11 +12,6 @@ Este é um projeto simples de gerenciamento bancário, desenvolvido com o objeti
   - Sacar
 - Interface de console interativa (menu de opções)
 
-## 📁 Estrutura do Projeto
-simple-java-bank-mgmt/ ├── src/ │ └── com/ │ └── mycompany/ │ └── gerenciabanco/ │ ├── Cliente.java │ ├── ContaBancaria.java │ ├── GerenciaBanco.java │ └── Menu.java ├── README.md └── .gitignore
-
----
-
 ## 🛠️ Como rodar o projeto
 
 ### ✅ No Visual Studio Code
